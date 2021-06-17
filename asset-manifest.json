@@ -1,27 +1,26 @@
 {
   "files": {
-    "main.css": "/home/static/css/main.956fad23.chunk.css",
-    "main.js": "/home/static/js/main.8b1e2688.chunk.js",
-    "main.js.map": "/home/static/js/main.8b1e2688.chunk.js.map",
-    "runtime-main.js": "/home/static/js/runtime-main.3c590061.js",
-    "runtime-main.js.map": "/home/static/js/runtime-main.3c590061.js.map",
-    "static/js/2.c6a95f53.chunk.js": "/home/static/js/2.c6a95f53.chunk.js",
-    "static/js/2.c6a95f53.chunk.js.map": "/home/static/js/2.c6a95f53.chunk.js.map",
-    "index.html": "/home/index.html",
-    "precache-manifest.08516fa83678be5fdd8948d47527dd13.js": "/home/precache-manifest.08516fa83678be5fdd8948d47527dd13.js",
-    "service-worker.js": "/home/service-worker.js",
-    "static/css/main.956fad23.chunk.css.map": "/home/static/css/main.956fad23.chunk.css.map",
-    "static/js/2.c6a95f53.chunk.js.LICENSE.txt": "/home/static/js/2.c6a95f53.chunk.js.LICENSE.txt",
-    "static/media/akshaypatel.png": "/home/static/media/akshaypatel.8aa10b73.png",
-    "static/media/cu.png": "/home/static/media/cu.7fc3dcfe.png",
-    "static/media/ddu.png": "/home/static/media/ddu.d5351ba2.png",
-    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.32f6b574.png",
-    "static/media/resume.pdf": "/home/static/media/resume.e1c1db26.pdf"
+    "main.css": "/static/css/main.956fad23.chunk.css",
+    "main.js": "/static/js/main.2af52221.chunk.js",
+    "main.js.map": "/static/js/main.2af52221.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.19e99e5d.chunk.js": "/static/js/2.19e99e5d.chunk.js",
+    "static/js/2.19e99e5d.chunk.js.map": "/static/js/2.19e99e5d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.abbdc412d365d2ccae393f80bc1013e8.js": "/precache-manifest.abbdc412d365d2ccae393f80bc1013e8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.956fad23.chunk.css.map": "/static/css/main.956fad23.chunk.css.map",
+    "static/js/2.19e99e5d.chunk.js.LICENSE.txt": "/static/js/2.19e99e5d.chunk.js.LICENSE.txt",
+    "static/media/akshaypatel.png": "/static/media/akshaypatel.8aa10b73.png",
+    "static/media/cu.png": "/static/media/cu.7fc3dcfe.png",
+    "static/media/ddu.png": "/static/media/ddu.d5351ba2.png",
+    "static/media/resume.pdf": "/static/media/resume.e1c1db26.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.3c590061.js",
-    "static/js/2.c6a95f53.chunk.js",
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.19e99e5d.chunk.js",
     "static/css/main.956fad23.chunk.css",
-    "static/js/main.8b1e2688.chunk.js"
+    "static/js/main.2af52221.chunk.js"
   ]
 }

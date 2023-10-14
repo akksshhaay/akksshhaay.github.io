@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a3dfc95.css",
+    "main.js": "/static/js/main.3fc5b719.js",
+    "static/media/akshaypatel.png": "/static/media/akshaypatel.b08098b818959d47ba1c.png",
+    "static/media/resume.pdf": "/static/media/resume.d60e370ad9d5190b64e1.pdf",
+    "static/media/ddu.png": "/static/media/ddu.c7d8b20f13d8417ac7ee.png",
+    "static/media/mulesoft.png": "/static/media/mulesoft.09305fa329a63cebfb8d.png",
+    "static/media/cu.png": "/static/media/cu.65b86f036015e15095d3.png",
+    "static/media/cengn.png": "/static/media/cengn.d0abf7744b9617d5bd5e.png",
+    "index.html": "/index.html",
+    "main.7a3dfc95.css.map": "/static/css/main.7a3dfc95.css.map",
+    "main.3fc5b719.js.map": "/static/js/main.3fc5b719.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a3dfc95.css",
+    "static/js/main.3fc5b719.js"
+  ]
+}
